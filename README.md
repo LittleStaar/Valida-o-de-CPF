@@ -11,5 +11,5 @@ O objetivo desse projeto foi criar uma página em HTML que validasse o CPF, inse
 * CSS 
 * Javascript
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
